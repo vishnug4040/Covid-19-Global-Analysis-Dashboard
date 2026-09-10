@@ -1,9 +1,11 @@
 🦠 COVID-19 Global Analysis Dashboard
+
 📊 Project Overview
 
 The COVID-19 Global Analysis Dashboard is an interactive Power BI data analytics project designed to analyze the global impact and spread of COVID-19. The dashboard presents key pandemic statistics through interactive charts, maps, KPIs, and country/continent-level analysis.
 
 🎯 Key Highlights
+
 🌍 Global COVID-19 Overview – Displays total confirmed cases, recovered cases, active cases, and deaths.
 📅 Time-Series Analysis – Tracks daily new cases and daily new deaths over time to identify major pandemic waves and trends.
 🌎 Continent Analysis – Compares confirmed cases, deaths, recoveries, and active cases across different continents.
@@ -11,7 +13,9 @@ The COVID-19 Global Analysis Dashboard is an interactive Power BI data analytics
 🇺🇸 Country-Level Analysis – Identifies countries with high numbers of active and recovered cases.
 🇮🇳 India Dashboard – Provides a dedicated view of India's confirmed cases, recoveries, active cases, deaths, and daily trends.
 🔎 Interactive Filtering – Allows users to explore the data by country, continent, and date.
+
 📈 Dashboard Pages
+
 1. Global Summary
 
 Provides an overall view of the pandemic using KPI cards, country comparisons, and daily case/death trends.
@@ -29,12 +33,14 @@ Uses maps and visualizations to compare active and recovered cases across indivi
 Provides a focused analysis of India's COVID-19 situation, including total cases, recoveries, deaths, active cases, and daily trends.
 
 🛠️ Tools & Technologies
+
 Microsoft Power BI
 Power Query
 DAX
 Data Cleaning & Transformation
 Data Visualization
 Interactive Dashboard Design
+
 💡 Key Insights
 
 The dashboard makes it easier to understand how COVID-19 cases changed over time, how the impact varied between continents and countries, and how India compared within the global scenario. Interactive visualizations allow users to explore the data and identify important patterns and trends.
